@@ -327,6 +327,9 @@ button:focus {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
   }
+  .wapnone {
+    display:inline-block;
+  }
 }
 
 .home-about-section {
