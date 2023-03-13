@@ -2,12 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import abtest from "../../Assets/Projects/abtest_new.png";
+import { FaYenSign } from "react-icons/fa";
 
 function Projects() {
   return (
@@ -15,23 +11,22 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          我 <strong className="purple">最近 </strong>在做什么...
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          一些读书笔记和作品链接
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
-              isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              imgPath={abtest}
+              isBlog={true}
+              title="AB实验"
+              description="最近在看《面向数据科学家的实用统计学》(practical statistics for data scientists)，其中一章介绍了AB实验，我做了一些笔记。"
+              ghLink="https://sponge-smile-b59.notion.site/AB-test-8a411b3e18d940b5bcf6ad8829b89acd"
             />
           </Col>
-
+{/* 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={bitsOfCode}
@@ -86,7 +81,7 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>

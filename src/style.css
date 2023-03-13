@@ -279,11 +279,18 @@ button:focus {
   font-size: 2.5em !important;
   padding-left: 45px !important;
 }
-
 .main-name {
   color: #cd5ff8;
 }
-
+.link {
+  color: #c770f0;
+  text-decoration:none;
+}
+.link:hover {
+  background-color: #c770f0;
+  color: #ffffff;
+  font-weight: bold;
+}
 .Typewriter__wrapper {
   font-size: 2.2em !important;
   color: #be6adf !important;
