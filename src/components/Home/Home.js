@@ -23,7 +23,9 @@ function Home() {
                 <span className='heading-name'>我是
                 <strong className="main-name"> 申屠泥</strong>
                 </span>
-                &emsp;<div className='wapnone'>&emsp;&emsp;&emsp;</div>（申屠是一个复姓）
+                &emsp;
+                <div className='wapnone'>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</div>
+                （申屠是一个复姓）
               </p>
 
               
