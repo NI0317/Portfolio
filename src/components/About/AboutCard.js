@@ -8,30 +8,25 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Soumyajit Behera </span>
-            from <span className="purple"> Bhubaneswar, India.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+             <span className="purple">申屠泥 </span>，互联网产品经理，毕业于 <span className="purple">清华大学</span>，
+            目前居住在 <span className="purple"> 北京</span>。
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            我专注于AI相关的产品设计，致力于打造既有价值又有趣的产品体验。
+            <br />
+            以下是我掌握的一些技能：
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> 产品设计 with Figma & Modao
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> 数据分析 with SQL & Python
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> 用户调研\竞品分析\项目管理
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
         </blockquote>
       </Card.Body>
     </Card>

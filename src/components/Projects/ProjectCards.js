@@ -10,6 +10,9 @@ function ProjectCards(props) {
       <Card.Img variant="top" src={props.imgPath} alt="card-img" />
       <Card.Body>
         <Card.Title>{props.title}</Card.Title>
+        {props.date && (
+          <Card.Subtitle className="mb-2 text-muted">{props.date}</Card.Subtitle>
+        )}
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>

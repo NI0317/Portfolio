@@ -23,21 +23,21 @@ function Home2() {
               <i>
                 <b className="purple"> Javascript, Python & R </b>。
               </i>
-              当然，我在（数据分析岗位的）实习和工作中主要还是在用
+              我正在学习    
               <i>
-                <b className="purple"> SQL </b>。
+                <b className="purple"> AI Coding with Claude </b>。
               </i>
               <br />
               <br />
-              我一直在进行数据新闻方面的尝试，我是
+              我在学生时代做过很多数据新闻，曾经是
               <a href='https://www.thepaper.cn/user_3346780' className='link'>RUC新闻坊</a>
               的一员，有几十篇数据新闻作品。其中，我最喜欢的是
               <a href='https://mp.weixin.qq.com/s/Kjo45dy1uF_uwcQs5xDhXQ' className='link'>《痛苦有形，衰老无声：看见老年求助者》</a>。
               希望你也喜欢。
               <br />
               <br />
-              我不打算继续做学术，但如果你想探讨 <b className="purple">计算传播学（computational comm.）</b> 
-              相关的话题，我也会很感兴趣。
+              未来，我将会成为一名 <b className="purple">互联网产品经理</b> 
+              ，如果你对此感兴趣，欢迎移步<a href='/about' className='link'>About</a>。
             </p>
           </Col>
           <Col md={4} className="myAvtar">
