@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2138f622.css",
-    "main.js": "/Portfolio/static/js/main.d4eb9d9d.js",
-    "static/js/415.fc063c41.chunk.js": "/Portfolio/static/js/415.fc063c41.chunk.js",
-    "static/js/787.f6e65957.chunk.js": "/Portfolio/static/js/787.f6e65957.chunk.js",
-    "static/media/resume_Ni_Shentu.pdf": "/Portfolio/static/media/resume_Ni_Shentu.970f200de9f7667a6605.pdf",
+    "main.css": "/Portfolio/static/css/main.111d3b84.css",
+    "main.js": "/Portfolio/static/js/main.30f890d1.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/about.png": "/Portfolio/static/media/about.4a7d7e617e5e9c293b98.png",
+    "static/media/research.png": "/Portfolio/static/media/research.40831381a13b4894bb38.png",
+    "static/media/abtest.png": "/Portfolio/static/media/abtest.7b922e59d7346c50af98.png",
+    "static/media/resort.png": "/Portfolio/static/media/resort.1e04ca91913693fbb320.png",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.6a6eb08d4548023fb0856a20dcf496ea.svg",
-    "static/media/abtest_new.png": "/Portfolio/static/media/abtest_new.7f053d2e27524f47a3aa.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.02f233284ba85dc3816c05d15b487d9f.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
-    "main.2138f622.css.map": "/Portfolio/static/css/main.2138f622.css.map",
-    "main.d4eb9d9d.js.map": "/Portfolio/static/js/main.d4eb9d9d.js.map",
-    "415.fc063c41.chunk.js.map": "/Portfolio/static/js/415.fc063c41.chunk.js.map",
-    "787.f6e65957.chunk.js.map": "/Portfolio/static/js/787.f6e65957.chunk.js.map"
+    "main.111d3b84.css.map": "/Portfolio/static/css/main.111d3b84.css.map",
+    "main.30f890d1.js.map": "/Portfolio/static/js/main.30f890d1.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2138f622.css",
-    "static/js/main.d4eb9d9d.js"
+    "static/css/main.111d3b84.css",
+    "static/js/main.30f890d1.js"
   ]
 }
