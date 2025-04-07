@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.111d3b84.css",
-    "main.js": "/Portfolio/static/js/main.e8be68a7.js",
+    "main.js": "/Portfolio/static/js/main.245072cf.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/Portfolio/static/media/about.4a7d7e617e5e9c293b98.png",
+    "static/media/novel.png": "/Portfolio/static/media/novel.c3ce58ba55e6532fc58e.png",
     "static/media/research.png": "/Portfolio/static/media/research.40831381a13b4894bb38.png",
     "static/media/abtest.png": "/Portfolio/static/media/abtest.7b922e59d7346c50af98.png",
     "static/media/resort.png": "/Portfolio/static/media/resort.1e04ca91913693fbb320.png",
+    "static/media/record_today.png": "/Portfolio/static/media/record_today.f610685146fbf19aa3fa.png",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.6a6eb08d4548023fb0856a20dcf496ea.svg",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.02f233284ba85dc3816c05d15b487d9f.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.111d3b84.css.map": "/Portfolio/static/css/main.111d3b84.css.map",
-    "main.e8be68a7.js.map": "/Portfolio/static/js/main.e8be68a7.js.map",
+    "main.245072cf.js.map": "/Portfolio/static/js/main.245072cf.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.111d3b84.css",
-    "static/js/main.e8be68a7.js"
+    "static/js/main.245072cf.js"
   ]
 }
