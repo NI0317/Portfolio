@@ -5,6 +5,8 @@ import Particle from "../Particle";
 import abtest from "../../Assets/Projects/abtest.png";
 import resort from "../../Assets/Projects/resort.png";
 import research from "../../Assets/Projects/research.png";
+import record_today from "../../Assets/Projects/record_today.png";  
+import novel from "../../Assets/Projects/novel.png";
 import { FaYenSign } from "react-icons/fa";
 
 function Projects() {
@@ -33,6 +35,22 @@ function Projects() {
       date: "2023-09-30",
       description: "在MSRA实习期间，我完成了这一产品调研，扫描了当时市面上几乎所有有代表性的产品，结合一些科研论文，给出了自己对未来趋势的看法。",
       ghLink: "https://drive.google.com/file/d/1FdN7OgwdJgWONzOwIO7q_EiDaYeaDXRr/view"
+    },
+    {
+      imgPath: record_today,
+      isBlog: true,
+      title: "《时间的乘法》小程序创作小记",
+      date: "2025-04-07",
+      description: "记录了做《时间的乘法》这个小程序的过程中，想法的诞生以及与AI的协作过程，这个小程序还在备案中，暂时搜不到",
+      ghLink: "https://www.notion.so/1ce51de44c9f80d49d33c1e73ce7d84a?pvs=4"
+    },
+    {
+      imgPath: novel,
+      isBlog: true,
+      title: "互动推理小说开发",
+      date: "2023-03-20",
+      description: "（已有小说，暂无互动）我一直很喜欢Disco Elysium和阿加莎的小说，所以想将二者结合，做一个互动推理小说，小说完全是由Claude写的，图片则通过comfyUI工作流生成。",
+      ghLink: "https://www.notion.so/1bd51de44c9f800bb17de82805e34055?pvs=4"
     },
     /* 注释掉的项目也可以添加日期，但目前不显示
     {

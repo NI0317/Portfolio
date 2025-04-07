@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
@@ -37,7 +38,7 @@ function Home2() {
               <br />
               <br />
               未来，我将会成为一名 <b className="purple">互联网产品经理</b> 
-              ，如果你对此感兴趣，欢迎移步<a href='/about' className='link'>About</a>。
+              ，如果你对此感兴趣，欢迎移步<Link to='/about' className='link'>About</Link>。
             </p>
           </Col>
           <Col md={4} className="myAvtar">
