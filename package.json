@@ -24,9 +24,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "craco start",
+    "build": "GENERATE_SOURCEMAP=false craco build",
+    "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
@@ -50,6 +50,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "@craco/craco": "^7.1.0",
+    "gh-pages": "^5.0.0",
+    "terser-webpack-plugin": "^5.3.14"
   }
 }
